@@ -1,0 +1,52 @@
+body {
+	font-family: sans-serif;
+	background-color: plum;
+    
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+}
+
+#container {
+	margin: 20px auto;
+	width: 50%;
+	text-align: center;
+}
+
+#input {
+	width: 70%;
+	padding: 10px;
+	margin-right: 10px;
+}
+
+button {
+	padding: 10px;
+	background-color: purple;
+	color: white;
+	border: 2px solid black;
+	border-radius: 30%;
+	cursor: pointer;
+	
+}
+
+ul {
+	list-style: none;
+
+	}
+
+li {
+	margin: 10px 0;
+	padding: 10px;
+	background-color: #efe9e9;
+	border-radius: 5px;
+
+}
+
+li:hover {
+	background-color: purple;
+	color:aliceblue;
+	border: 2px solid black;
+	size: 100px;
+}
